@@ -16,5 +16,4 @@ const generateRandomMessage = data => {
 }
 
 
-//console.log(generateRandomMessage(Truthytrues))
-console.log(getRandomItem(["Calors", "Juan", "Pedro", "Samuel", "Karla", "Samantha"]))
+console.log(generateRandomMessage(Truthytrues))
